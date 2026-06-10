@@ -1,4 +1,4 @@
-# PBL5-TY-SEM5
+# Automatic Clothes Segregator
 
 #Title: Automatic Clothes Segregator
 
