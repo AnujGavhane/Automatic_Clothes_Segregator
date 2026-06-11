@@ -2,11 +2,6 @@
 
 > An Arduino-based automated clothes sorting system that uses a TCS3200 Color Sensor and Servo Motors to classify garments into separate compartments based on their color, reducing manual effort and preventing color mixing during washing.
 
-![Arduino](https://img.shields.io/badge/Arduino-Nano-blue)
-![Sensor](https://img.shields.io/badge/Sensor-TCS3200-green)
-![Automation](https://img.shields.io/badge/Domain-Industrial_Automation-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 
 ## 📖 Overview
