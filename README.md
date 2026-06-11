@@ -101,21 +101,23 @@ Bin        Bin
 
 ---
 
-## 📊 Block Diagram
+## 📊 Block Diagram & Flow Chart
 
-![Block Diagram](images/ACS_Block_Diagram.PNG)
+![Block Diagram](https://github.com/AnujGavhane/Automatic_Clothes_Segregator/blob/main/Circuit%20%26%20Diagrams/ACS_Block_Diagram.PNG)
+
+![Flow_Chart](https://github.com/AnujGavhane/Automatic_Clothes_Segregator/blob/main/Circuit%20%26%20Diagrams/ACS_Flowchart.PNG)
 
 ---
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](images/ACS_Ckt_Diagram.jpeg)
+![Circuit Diagram](https://github.com/AnujGavhane/Automatic_Clothes_Segregator/blob/main/Circuit%20%26%20Diagrams/ACS_Ckt_Diagram.jpeg)
 
 ---
 
 ## 🔧 Hardware Setup
 
-![Hardware Setup](images/ACS_CKT_Design.jpeg)
+![Hardware Setup](https://github.com/AnujGavhane/Automatic_Clothes_Segregator/blob/main/Circuit%20%26%20Diagrams/ACS_CKT_Design.jpeg)
 
 ---
 
@@ -188,23 +190,6 @@ The prototype was tested on 100 clothing samples under controlled conditions.
 
 ---
 
-## 📚 Research Publication
-
-### Automatic Clothes Segregator
-
-**Authors**
-
-- Suvarna Kadam
-- Sanika Deshpande
-- Varsha Bendre
-- Yash Dhond
-- Rashmi Patil
-- Anuj Gavhane
-
-This project was developed as an academic research initiative focusing on color-based automated garment segregation using embedded systems and sensor technologies.
-
----
-
 ## 🔮 Future Enhancements
 
 - Multi-color classification
@@ -214,77 +199,6 @@ This project was developed as an academic research initiative focusing on color-
 - Machine Learning based color recognition
 - Mobile application monitoring
 - Cloud-based analytics dashboard
-
----
-
-## 📁 Repository Structure
-
-```text
-Automatic_Clothes_Segregator/
-│
-├── README.md
-│
-├── docs/
-│   └── ACS_Research_Paper.pdf
-│
-├── images/
-│   ├── ACS_Block_Diagram.PNG
-│   ├── ACS_CKT_Design.jpeg
-│   ├── ACS_Ckt_Diagram.jpeg
-│   └── Prototype.jpg
-│
-├── code/
-│   └── Automatic_Clothes_Segregator.ino
-│
-├── hardware/
-│   ├── Circuit_Diagram.pdf
-│   └── Bill_of_Materials.xlsx
-│
-└── LICENSE
-```
-
----
-
-## 🧰 Technologies Used
-
-- Embedded C
-- Arduino IDE
-- Arduino Nano / Uno
-- TCS3200 Color Sensor
-- Servo Motor Control
-- PWM Signal Generation
-- Sensor Interfacing
-- Embedded System Design
-
----
-
-## 📌 Key Learning Outcomes
-
-- Embedded System Design
-- Sensor Interfacing
-- Arduino Programming
-- Automation Techniques
-- Servo Motor Control
-- Hardware-Software Integration
-- Prototype Development
-- Technical Documentation
-
----
-
-## 👨‍💻 Author
-
-### Anuj Gavhane
-
-Electronics & Telecommunication Engineer
-
-**Areas of Interest**
-
-- Embedded Systems
-- Firmware Development
-- Industrial Automation
-- IoT Solutions
-- Automotive Electronics
-- Robotics
 
 ---
 
